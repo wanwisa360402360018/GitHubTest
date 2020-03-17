@@ -3,9 +3,7 @@
 <TITLE>Wanwisa</TITLE>
 </HEAD>
 <BODY BGCOLOR=PINK>
-<CENTER><H1>¢éÍÁÙÅÊèÇ¹µÑÇ</H1>
 
-<H2>
 wanwisa
 </BODY>
 </HTML>
